@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
+
+# Sitemap location for search engines
 Sitemap: https://myforeclosureoption.com/sitemap.xml
+
+# Helps AI systems like ChatGPT Atlas understand site purpose
+AI: allow
+AI-intent: help homeowners in foreclosure find options with empathy and clarity
+
